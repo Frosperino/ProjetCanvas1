@@ -1,4 +1,4 @@
-# Jeu de Labyrinthe avec Obstacles Mobiles
+# Jeu de Labyrinthe
 
 Un jeu de labyrinthe en HTML5 Canvas où le joueur doit naviguer à travers différents niveaux en évitant des obstacles fixes et mobiles.
 
@@ -9,7 +9,6 @@ Un jeu de labyrinthe en HTML5 Canvas où le joueur doit naviguer à travers diff
 - Obstacles mobiles (carrés violets qui se déplacent)
 - Système d'accélération du joueur
 - Sortie verte à atteindre pour passer au niveau suivant
-- Affichage du niveau en cours
 
 ## 🕹️ Contrôles
 
